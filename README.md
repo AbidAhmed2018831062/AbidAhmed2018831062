@@ -1,6 +1,6 @@
 ## Hello, I am Abid 👋 
 
-### I am reading at Software Engineering, Shahjalal University of Sciene and Technology, Sylhet.
+### I am studying in Software Engineering, Shahjalal University of Sciene and Technology, Sylhet.
 
 <!--
 **AbidAhmed2018831062/AbidAhmed2018831062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 4) Java Script
 5) HTML
 6) CSS
+
 
 ### Programming Profiles
 
