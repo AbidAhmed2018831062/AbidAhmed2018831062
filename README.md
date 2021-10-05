@@ -55,7 +55,7 @@ Here are some ideas to get you started:
  
  <a href="https://vjudge.net/user/AbidAhmed"><img alt="Vjudge" src="https://user-images.githubusercontent.com/61650337/136102555-9adaf5df-6cdb-46d4-9ccd-74b7d4a93b54.jpg" height="50" width="50"></a>
  
- <a href="https://www.stopstalk.com/user/profile/ahmedleo12" target="blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50"></a>
+ <a href="https://www.stopstalk.com/user/profile/ahmedleo12" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50"></a>
  
  
 ### Connect with me:
