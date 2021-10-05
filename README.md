@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 # Connect with me:
 
-<a href="https://codeforces.com/profile/Ahmed_Abid"><img src="https://user-images.githubusercontent.com/61650337/136100700-43b31347-476e-4f10-97e4-cd5bee891ea0.png" width="100" height="10></a>
+<a href="https://codeforces.com/profile/Ahmed_Abid">
+  <img src="https://user-images.githubusercontent.com/61650337/136100700-43b31347-476e-4f10-97e4-cd5bee891ea0.png" width="100" height="10">
+ </a>
 
 
 
