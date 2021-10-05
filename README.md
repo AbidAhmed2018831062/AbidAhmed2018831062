@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 # Connect with me:
 
-[https://user-images.githubusercontent.com/61650337/136100700-43b31347-476e-4f10-97e4-cd5bee891ea0.png] (https://codeforces.com/profile/Ahmed_Abid)
+<img src="https://user-images.githubusercontent.com/61650337/136100700-43b31347-476e-4f10-97e4-cd5bee891ea0.png"><a src="https://codeforces.com/profile/Ahmed_Abid></a>
 
 
 
