@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 4) Java Script
 5) HTML
 6) CSS
+7) SQL
 
 
 ### Programming Profiles
