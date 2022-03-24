@@ -27,10 +27,7 @@ Here are some ideas to get you started:
 2) Web Development
 
 ### 🌱 I’m currently learning 
-
-1) PHP
-2) Node Js
-3) React Native
+1) React Native
 
 ### 👯 I’m looking to collaborate with
 
@@ -45,9 +42,10 @@ Here are some ideas to get you started:
 3) Java
 4) Java Swing
 5) Java Script
-6) HTML
-7) CSS
-8) SQL
+6) NodeJs
+7) HTML
+8) CSS
+9) SQL
 
 
 ### Programming Profiles
