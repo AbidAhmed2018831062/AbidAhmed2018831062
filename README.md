@@ -43,10 +43,11 @@ Here are some ideas to get you started:
 1) C
 2) C++
 3) Java
-4) Java Script
-5) HTML
-6) CSS
-7) SQL
+4) Java Swing
+5) Java Script
+6) HTML
+7) CSS
+8) SQL
 
 
 ### Programming Profiles
