@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 1) Android Developers
 2) Web Developers
-3) Freelancers
 
 ### Languages
 
@@ -43,9 +42,10 @@ Here are some ideas to get you started:
 4) Java Swing
 5) Java Script
 6) NodeJs
-7) HTML
-8) CSS
-9) SQL
+7) Express Js
+8) HTML
+9) CSS
+10) SQL
 
 
 ### Programming Profiles
@@ -64,14 +64,4 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/ahmed.abid.3114935/"><img alt="Facebook" src="https://user-images.githubusercontent.com/61650337/136103321-3228fe17-1a45-461a-a783-e83d709276c2.jpg" height="50" width="50"></a>
  
 <a href="https://www.instagram.com/abidahmed366/"><img alt="Insatgram" src="https://user-images.githubusercontent.com/61650337/136103454-928916c4-be8b-40ca-a867-27cbf0d81997.png" width="50" height="50"></a>
-
- 
-
-
-
-
-
-
-
-
 
