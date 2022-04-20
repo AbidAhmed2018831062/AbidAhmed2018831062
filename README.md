@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 9) CSS
 10) SQL
 
+### Achivement
+1. 2nd Prize winner in MIST mobile app contest.
+2. 4th place acquired in "TechStorm3" hackathon organized by Leading University, Sylhet. 
+
 
 ### Programming Profiles
 
