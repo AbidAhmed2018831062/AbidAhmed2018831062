@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning 
 1) React.js
+2) MongoDb
 
 ### 👯 I’m looking to collaborate with
 
