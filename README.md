@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning 
 1) React.js
-2) MongoDb
 
 ### 👯 I’m looking to collaborate with
 
@@ -47,6 +46,7 @@ Here are some ideas to get you started:
 8) HTML
 9) CSS
 10) SQL
+11) MongoDb
 
 ### Achivement
 1. 2nd Prize winner in MIST mobile app contest.
