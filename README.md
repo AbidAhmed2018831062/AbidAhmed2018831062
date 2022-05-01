@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### 👯 I’m looking to collaborate with
 
-1) Android Developers
+1) Mobile App Developers
 2) Web Developers
 
 ### Languages
