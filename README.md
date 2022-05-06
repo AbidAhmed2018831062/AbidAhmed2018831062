@@ -1,4 +1,4 @@
-## Hello, I am Abid 👋 
+## Hello, I am Abid Ahmed👋 
 
 ### I am studying in Software Engineering at Shahjalal University of Sciene and Technology, Sylhet.
 
