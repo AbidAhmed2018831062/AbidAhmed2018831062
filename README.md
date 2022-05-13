@@ -48,6 +48,11 @@ Here are some ideas to get you started:
 10) SQL
 11) MongoDb
 
+### Tools I use the most:
+
+1. VS code
+2. Android Studio
+
 ### Achivement
 1. 2nd Prize winner in MIST mobile app contest.
 2. 4th place acquired in "TechStorm4" hackathon organized by Leading University, Sylhet. 
