@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 2) Web Development
 
 ### 🌱 I’m currently learning 
-1) React.js
+1) Java Web Development
 
 ### 👯 I’m looking to collaborate with
 
@@ -41,12 +41,13 @@ Here are some ideas to get you started:
 3) Java
 4) Java Swing
 5) Java Script
-6) NodeJs
-7) Express Js
-8) HTML
-9) CSS
-10) SQL
-11) MongoDb
+6) React.js
+7) NodeJs
+8) Express Js
+9) HTML
+10) CSS
+11) SQL
+12) MongoDb
 
 ### Tools I use the most:
 
