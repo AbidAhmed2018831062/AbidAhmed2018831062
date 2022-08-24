@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 2) Web Development
 
 ### 🌱 I’m currently learning 
-1) Java Web Development
+1) React Native
 
 ### 👯 I’m looking to collaborate with
 
