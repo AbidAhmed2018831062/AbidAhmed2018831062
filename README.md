@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 1) Mobile App Developers
 2) Web Developers
 
-### Languages
+### Languages or Technologies
 
 1) C
 2) C++
