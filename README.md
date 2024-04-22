@@ -73,7 +73,7 @@ Here are some ideas to get you started:
  
 ### Connect with me:
 
-  <a href="https://www.facebook.com/ahmed.abid.3114935/"><img alt="Facebook" src="https://user-images.githubusercontent.com/61650337/136103321-3228fe17-1a45-461a-a783-e83d709276c2.jpg" height="50" width="50"></a>
+  <a href="https://www.facebook.com/ahmed.abid.3114935/"><img alt="Facebook" src="https://user-images.githubusercontent.com/61650337/136103321-3228fe17-1a45-461a-a783-e83d709276c2.jpg" height="30" width="30"></a>
  
-<a href="https://www.linkedin.com/in/abidahmed62/"><img alt="Insatgram" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/abidahmed62/"><img alt="Insatgram" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" width="30" height="30"></a>
 
