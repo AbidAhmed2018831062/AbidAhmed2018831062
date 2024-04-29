@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 1) C
 2) C++
 3) Java
-4) Java Swing
 5) Java Script
 6) React.js
 7) NodeJs
@@ -48,12 +47,7 @@ Here are some ideas to get you started:
 10) CSS
 11) SQL
 12) MongoDb
-13) SpringBoot
 
-### Tools I use the most:
-
-1. VS code
-2. Android Studio
 
 ### Achivement
 1. 2nd Prize winner in MIST mobile app contest.
