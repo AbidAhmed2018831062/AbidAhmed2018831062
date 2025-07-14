@@ -48,17 +48,18 @@ Here are some ideas to get you started:
 
 
 ### View My Client or Personal Projects
-<a href="jobresumeai.com">
-Job Resunme AI
-</a>
 
-<a href="riticle.com">
-RITICLE
-</a>
-
-<a href="bidit.co.il">
-BIDIT
-</a>
+<p align="center">
+  <a href="https://jobresumeai.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Job%20Resume%20AI-Visit-blue?style=for-the-badge&logo=Google-Chrome" alt="Job Resume AI" />
+  </a>
+  <a href="https://riticle.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/RITICLE-Visit-green?style=for-the-badge&logo=Read-the-Docs" alt="RITICLE" />
+  </a>
+  <a href="https://bidit.co.il" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/BIDIT-Visit-red?style=for-the-badge&logo=React" alt="BIDIT" />
+  </a>
+</p>
 
 ### Programming Profiles
 
