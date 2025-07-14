@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 
 [![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbidAhmed2018831062)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔭 I’m currently working on 
-
-1) Android Development
-2) Web Development
-
-### 🌱 I’m currently learning 
-1) React Native
 
 ### 👯 I’m looking to collaborate with
 
@@ -51,8 +44,21 @@ Here are some ideas to get you started:
 
 ### Achivement
 1. 2nd Prize winner in MIST mobile app contest.
-2. 4th place acquired in "TechStorm4" hackathon organized by Leading University, Sylhet. 
+2. 4th place acquired in "TechStorm4" hackathon organized by Leading University, Sylhet.
 
+
+### View My Client or Personal Projects
+<a href="jobresumeai.com">
+Job Resunme AI
+</a>
+
+<a href="riticle.com">
+RITICLE
+</a>
+
+<a href="bidit.co.il">
+BIDIT
+</a>
 
 ### Programming Profiles
 
